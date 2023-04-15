@@ -1,0 +1,9 @@
+.message {
+  color: #ffffff;
+  font-size: 32px;
+  font-family: 'Roboto';
+}
+.input {
+  padding: 10px;
+  margin-bottom: 15px;
+}
